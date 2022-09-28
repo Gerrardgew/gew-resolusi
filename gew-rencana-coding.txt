@@ -8,3 +8,5 @@ Rencana coding Gewgew
 - Belajar javascript lanjutan (es6 keknya)
 - Belajar python dikit dikit
 - Belajar bikin responsive web
+- Belajar js framework ( React, Angular)
+- Belajar css pre-processor (SASS)
