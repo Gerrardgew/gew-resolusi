@@ -5,3 +5,4 @@ Rencana coding Gewgew
 - Belajar css framework ( Bootstrap, tailwind)
 - Belajar Git & Github 
 - Belajar javascript lanjutan (es6 keknya)
+- Belajar python dikit dikit
