@@ -1,6 +1,7 @@
 GEW RESOLUSI
 - Konsisten untuk coding minimal 30menit/hari
 - Tamatin app/ web codelearning buat sertifikasi
+- Tamatin buku web programming
 - Bikin banyak website untuk portfolio
 - Belajar mobile developer (kalo udah ngerti web)
 - Jadi front end web developer
