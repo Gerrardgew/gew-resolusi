@@ -3,6 +3,7 @@ Rencana coding Gewgew
 - Kuasai Javascript language
 - Belajar javascript D.O.M
 - Belajar css framework ( Bootstrap, tailwind)
+- Belajar php dikit dikit
 - Belajar Git & Github 
 - Belajar javascript lanjutan (es6 keknya)
 - Belajar python dikit dikit
